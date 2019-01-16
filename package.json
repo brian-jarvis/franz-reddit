@@ -1,0 +1,24 @@
+
+{
+    "id": "reddit",
+    "name": "Reddit",
+    "version": "1.0.0",
+    "description": "Reddit",
+    "main": "index.js",
+    "author": "Brian Jarvis",
+    "license": "GPL",
+    "config": {
+      "serviceURL": "https://www.reddit.com/",
+      "serviceName": "Reddit",
+      "message": "Reddit",
+      "popup": [],
+      "hasNotificationSound": false,
+      "hasIndirectMessages": false,
+      "customURL": false,
+      "hasTeamID": false,
+      "webviewOptions": {
+        "disablewebsecurity": ""
+      },
+      "openDevTools": false
+    }
+  }
